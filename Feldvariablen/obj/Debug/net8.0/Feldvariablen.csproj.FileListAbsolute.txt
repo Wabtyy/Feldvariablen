@@ -1,0 +1,14 @@
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\bin\Debug\net8.0\Feldvariablen.exe
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\bin\Debug\net8.0\Feldvariablen.deps.json
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\bin\Debug\net8.0\Feldvariablen.runtimeconfig.json
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\bin\Debug\net8.0\Feldvariablen.dll
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\bin\Debug\net8.0\Feldvariablen.pdb
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\Feldvariablen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\Feldvariablen.AssemblyInfoInputs.cache
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\Feldvariablen.AssemblyInfo.cs
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\Feldvariablen.csproj.CoreCompileInputs.cache
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\Feldvariablen.dll
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\refint\Feldvariablen.dll
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\Feldvariablen.pdb
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\Feldvariablen.genruntimeconfig.cache
+C:\Users\muellerj\Desktop\LF05\Feldvariablen\Feldvariablen\obj\Debug\net8.0\ref\Feldvariablen.dll
