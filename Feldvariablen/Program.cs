@@ -68,6 +68,37 @@ static void FindeExtremeTage(int[] temperatur)
     Console.WriteLine($"Niedrigste Temperatur: {lowest}°C am {DayNames(dayLowest)} ({dayLowest + 1}.01.2025)");
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 static void ZeichneTemperaturenGraph(int[] temperatur)
 {
     Console.Clear();
